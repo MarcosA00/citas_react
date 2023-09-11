@@ -1,3 +1,9 @@
+# Control de Citas de una Veterinaria
+
+El proposito principal es practicar el desarrollo Web con React, implementando una logica sencilla y el uso de "localStorage" para poder almacenar datos de forma local.
+
+Para este proyecto trabajé con diferentes herramientas como React, Vite, tailwindCSS y más.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
