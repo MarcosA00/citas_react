@@ -1,7 +1,8 @@
 # Control de Citas de una Veterinaria
 
-Para este proyecto trabajé con diferentes herramientas como React, Vite, tailwindCSS y más.
 El proposito principal es practicar el desarrollo Web con React, implementando una logica sencilla y el uso de "localStorage" para poder almacenar datos de forma local.
+
+Para este proyecto trabajé con diferentes herramientas como React, Vite, tailwindCSS y más.
 
 # React + Vite
 
